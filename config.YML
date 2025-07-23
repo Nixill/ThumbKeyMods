@@ -28,6 +28,7 @@ MATHThumbKey:
     key1_2: # 6
       top: {text: "⁶"}
       bottom: {text: "₆"}
+      left: {text: "="}
     key2_0: # 7
       top: {text: "⁷"}
       bottom: {text: "₇"}
