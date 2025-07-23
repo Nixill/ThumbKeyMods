@@ -1,12 +1,19 @@
 ENThumbKeyProgramming:
   main:
     key2_2:
-      top:
-        text: "é"
+      top: {text: "é"}
   shifted:
+    key1_0:
+      top: {text: "¢"}
     key2_2:
-      top:
-        text: "É"
+      top: {text: "É"}
+  numeric:
+    key0_0:
+      left: {text: "¢"}
+      top: {text: "€"}
+      topLeft: {text: "£"}
+      topRight: {text: "¥"}
+      bottomRight: {text: "₽"}
 MATHThumbKey:
   numeric:
     key0_0: # 1
