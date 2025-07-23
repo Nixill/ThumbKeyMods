@@ -1,0 +1,44 @@
+ENThumbKeyProgramming:
+  main:
+    key2_2:
+      top:
+        text: "é"
+  shifted:
+    key2_2:
+      top:
+        text: "É"
+MATHThumbKey:
+  numeric:
+    key0_0: # 1
+      top: {text: "¹"}
+      bottom: {text: "₁"}
+    key0_1: # 2
+      top: {text: "²"}
+      bottom: {text: "₂"} # replaces "^", moved to top-left of 3
+    key0_2: # 3
+      top: {text: "³"}
+      bottom: {text: "₃"} # replaces "=", moved to left of 6
+      topLeft: {text: "^"}
+    key1_0: # 4
+      top: {text: "⁴"}
+      bottom: {text: "₄"}
+    key1_1: # 5
+      top: {text: "⁵"}
+      bottom: {text: "₅"}
+    key1_2: # 6
+      top: {text: "⁶"}
+      bottom: {text: "₆"}
+    key2_0: # 7
+      top: {text: "⁷"}
+      bottom: {text: "₇"}
+    key2_1: # 8
+      top: {text: "⁸"}
+      bottom: {text: "₈"} # replaces ".", moved to right
+      right: {text: "."}
+    key2_2: # 9
+      top: {text: "⁹"} # replaces "&", moved to top-left
+      bottom: {text: "₉"}
+      topLeft: {text: "&"}
+    key3_0: # 0
+      top: {text: "⁰"}
+      bottom: {text: "₀"}
